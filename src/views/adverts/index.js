@@ -27,7 +27,7 @@ class AdvertsView extends Component {
         />
         <ScrollView style={{flex: 1}}>
           <View style={styles.containerAdverts}>
-            <Text>adverts</Text>
+            <Text>Anúncios</Text>
           </View>
         </ScrollView>
       </View>

@@ -4,7 +4,7 @@ import {LAYOUT} from '../../constants/app';
 import {FontAwesomeIcon} from '@fortawesome/react-native-fontawesome';
 import {
   faStore,
-  faShoppingCart,
+  faInfo,
   faBullhorn,
 } from '@fortawesome/free-solid-svg-icons';
 import {styles} from './styles';
@@ -82,7 +82,7 @@ export default class TabNavigator extends Component {
           }}
           style={{flex: 1, alignItems: 'center'}}>
           <FontAwesomeIcon
-            icon={faShoppingCart}
+            icon={faInfo}
             size={this.state.clickedCart ? 40 : 25}
             color={'#fff'}
           />

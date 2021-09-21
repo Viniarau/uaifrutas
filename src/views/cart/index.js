@@ -32,7 +32,7 @@ class CartView extends Component {
         />
         <ScrollView style={{flex: 1}}>
           <View>
-            <Text>CartView</Text>
+            <Text>Informações</Text>
           </View>
         </ScrollView>
       </View>
