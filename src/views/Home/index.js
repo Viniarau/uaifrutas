@@ -261,6 +261,7 @@ class HomeView extends Component {
                 size={200}
                 color={"green"}
               />
+              {/* Função para gerar comprovante pdf incompleta*/}
               <TouchableOpacity
                 onPress={() => {
                   this.setState({
