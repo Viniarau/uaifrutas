@@ -1,0 +1,14 @@
+com/uaifrutas/MainApplication.java
+ com.uaifrutas.MainApplication
+ com.uaifrutas.MainApplication$1
+com/uaifrutas/ReactNativeFlipper.java
+ com.uaifrutas.ReactNativeFlipper
+ com.uaifrutas.ReactNativeFlipper$1
+ com.uaifrutas.ReactNativeFlipper$2
+ com.uaifrutas.ReactNativeFlipper$2$1
+com/uaifrutas/MainActivity.java
+ com.uaifrutas.MainActivity
+com/uaifrutas/BuildConfig.java
+ com.uaifrutas.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
